@@ -8,7 +8,7 @@ Dieses Repository ist eine Ansammlung der Aufgaben des Landesabiturs in Hessen i
 
 1. Die Ergebnisse der bearbeiteten Abituraufgaben an [tobias.erthal@icloud.com](mailto:tobias.erthal@icloud.com) schicken
 2. Abwarten
-3. Die Ergebniss der eigenen und der anderen Gruppen hier einsehen
+3. Die Ergebnisse der eigenen und der anderen Gruppen hier einsehen
 
 ## Index
 
