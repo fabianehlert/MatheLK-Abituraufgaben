@@ -2,7 +2,7 @@
 
 ## Über
 
-Dieses Repository ist eine Ansammlung der Aufgaben des Landesabiturs in Hessen im Fach Mathematik und der erarbeiteten Lösungen.
+Dieses Repository ist eine Ansammlung der Aufgaben des Landesabiturs in Hessen im Fach Mathematik der Jahre 2009-2015 und der bemerkenswerten Erkenntnisse aus der Bearbeitung dieser.
 
 ## Anleitung
 
