@@ -17,7 +17,7 @@ Inline-style:
 Reference-style:
 ![alt text][logo]
 
-[logo]: http://latex.codecogs.com/svg.latex?f(x)=\frac{x}{4}\sqrt{20-x}=\frac{1}{4}\sqrt{20x^2-x^3} "Logo Title Text 2"
+[logo]: http://latex.codecogs.com/png.latex?f(x)=\frac{x}{4}\sqrt{20-x}=\frac{1}{4}\sqrt{20x^2-x^3} "Logo Title Text 2"
 
 #### **2.1)**
 
