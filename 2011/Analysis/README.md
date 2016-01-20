@@ -13,6 +13,11 @@ Das Querschnittsprofil des Ballon wird beschrieben durch:
 
 [logo]: http://latex.codecogs.com/png.latex?f(x)=\frac{x}{4}\sqrt{20-x}=\frac{1}{4}\sqrt{20x^2-x^3} "Logo Title Text 2"
 
+![](http://rogercortesi.com/eqn/tempimagedir/eqn2997.png)
+
+"Download"
+
+![](http://latex.codecogs.com/gif.download?%5Cfrac%7B1+sin%28x%5E2%29%7D%7Bx%5E2%7D)
 
 #### **2.1)**
 
