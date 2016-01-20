@@ -4,6 +4,8 @@
 
 Dieses Repository ist eine Ansammlung der Aufgaben des Landesabiturs in Hessen im Fach Mathematik der Jahre 2009-2015 und der bemerkenswerten Erkenntnisse aus der Bearbeitung dieser.
 
+Die Aufgaben stammen von [https://www.schullv.de](https://www.schullv.de). Eine Lizenz wurde erworben.
+
 ## Anleitung
 
 1. Die Ergebnisse der bearbeiteten Abituraufgaben an [tobias.erthal@icloud.com](mailto:tobias.erthal@icloud.com) schicken
