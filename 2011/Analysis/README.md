@@ -17,7 +17,7 @@ Das Querschnittsprofil des Ballon wird beschrieben durch:
 
 "Download"
 
-![](http://latex.codecogs.com/gif.?%5Cfrac%7B1+sin%28x%5E2%29%7D%7Bx%5E2%7D)
+![](http://latex.codecogs.com/gif.?\sqrt{20x-4}*\pi^2)
 
 ![](http://latex.codecogs.com/svg.?%5Cfrac%7B1+cos%28x%5E2%29%7D%7Bx%5E2%7D)
 
