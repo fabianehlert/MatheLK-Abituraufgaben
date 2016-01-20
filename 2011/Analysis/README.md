@@ -7,7 +7,11 @@ Das Querschnittsprofil des Ballon wird beschrieben durch:
 
 ![](https://raw.githubusercontent.com/fabianehlert/MatheLK-Abituraufgaben/master/2011/Analysis/res/2011_a1_task2_001.png)
 
-<img src="http://latex.codecogs.com/svg.latex?f(x)=\frac{x}{4}\sqrt{20-x}=\frac{1}{4}\sqrt{20x^2-x^3}" border="0"/>
+> The function
+
+<img src="http://latex.codecogs.com/svg.latex?f(x)=%5Cfrac{x}{4}%5Csqrt{20-x}=%5Cfrac{1}{4}%5Csqrt{20x^2-x^3}" border="0"/>
+
+> End
 
 ![alt text][logo]
 
@@ -17,7 +21,7 @@ Das Querschnittsprofil des Ballon wird beschrieben durch:
 
 "Download"
 
-![](http://latex.codecogs.com/gif.?\sqrt{20x-4}*\pi^2)
+![](http://latex.codecogs.com/svg.?\sqrt{20x-4}*\pi^2)
 
 ![](http://latex.codecogs.com/svg.?%5Cfrac%7B1+cos%28x%5E2%29%7D%7Bx%5E2%7D)
 
