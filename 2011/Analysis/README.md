@@ -3,13 +3,26 @@
 
 ### Aufgabe 1
 
+> Der Verlauf der Höhe des Ballons während der Fahrt wird beschrieben durch:
+
+<img src="http://latex.codecogs.com/svg.latex?h(t)=2t^2(1,5-ln(t))" border="0" height="30"/> für t>0
+
 #### Aufgabe 1.1
 
 Beim Ableiten der Funktion, welche den Höhenverlauf der Ballonfahrt darstellt, beachten:
 
 <img src="http://latex.codecogs.com/svg.latex?(ln(t))'=%5Cfrac{1}{t}" border="0" height="50"/>
 
-#### Aufgabe 1.1
+#### Aufgabe 1.2
+
+> Zeitpunkt des stärksten Steigens/Fallens bestimmen
+
+* Wendestellen über <img src="http://latex.codecogs.com/svg.latex?h''(t)=0" border="0" height="25"/>
+* Man findet eine WS bei t = 1
+  * hier steigt der Ballon am stärksten
+* Keine weitere WS
+  * Stelle des stärksten Fallens über **Randminimum** finden
+    * stärkster Fall bei <img src="http://latex.codecogs.com/svg.latex?t=e^{1,5}" border="0" height="25"/>
 
 ### Aufgabe 2
 
