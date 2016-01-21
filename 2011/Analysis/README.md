@@ -3,6 +3,14 @@
 
 ### Aufgabe 1
 
+#### Aufgabe 1.1
+
+Beim Ableiten der Funktion, welche den Höhenverlauf der Ballonfahrt darstellt, beachten:
+
+<img src="http://latex.codecogs.com/svg.latex?(ln(t))'=%5Cfrac{1}{t}" border="0" height="50"/>
+
+#### Aufgabe 1.1
+
 ### Aufgabe 2
 
 > Das Querschnittsprofil des Ballon, der in diesem Falle quer im Koordinatensystem liegt, wird beschrieben durch:
@@ -39,6 +47,14 @@
 2. <img src="http://latex.codecogs.com/svg.latex?d=2*r=2*1,09=2,18" border="0" height="18"/>
 
 ### Aufgabe 3
+
+> Volumen des Rotationskörper berechnen
+
+<img src="http://latex.codecogs.com/svg.latex?V=%5Cpi%5Cint_{x_1}^{x_2} [f(x)]^2 %5C dx" border="0" height="50"/>
+
+Als Untergrenze setzen wir 1 ein, da das Volumen *ab dem Brennerrahmen* gefragt ist. Die Obergrenze entspricht der Höhe:
+
+<img src="http://latex.codecogs.com/svg.latex?V=%5Cpi%5Cint_{1}^{20} [%5Cfrac{x}{4}%5Csqrt{20-x}]^2 %5C dx = 2616,734" border="0" height="50"/>
 
 ---
 
