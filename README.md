@@ -40,3 +40,5 @@ Dieses Repository ist eine Ansammlung der bemerkenswerten Ergebnisse der Aufgabe
   + [Analysis](https://github.com/fabianehlert/MatheLK-Abituraufgaben/tree/master/2009/Analysis)
   + [Analytische Geometrie](https://github.com/fabianehlert/MatheLK-Abituraufgaben/tree/master/2009/Analytische%20Geometrie)
   + [Stochastik](https://github.com/fabianehlert/MatheLK-Abituraufgaben/tree/master/2009/Stochastik)
+- [2008](https://github.com/fabianehlert/MatheLK-Abituraufgaben/tree/master/2008)
+  + [Anmerkungen](https://github.com/fabianehlert/MatheLK-Abituraufgaben/tree/master/2008/Anmerkungen.pdf)
