@@ -1,8 +1,8 @@
 # Vorschlag 1
 
 ## 2.2
-- Man soll zeigen, dass ![Wa(x)](http://www.sciweavers.org/tex2img.php?eq=W_a%28x%29&bc=Transparent&fc=Black&im=png&fs=12&ff=arev&edit=0) eine Stammfunktion von ![wa(x)](http://www.sciweavers.org/tex2img.php?eq=w_a%28x%29&bc=Transparent&fc=Black&im=png&fs=12&ff=arev&edit=0) ist.  
-Anstatt die Stammfunktion von ![wa(x)](http://www.sciweavers.org/tex2img.php?eq=w_a%28x%29&bc=Transparent&fc=Black&im=png&fs=12&ff=arev&edit=0) selbst zu bilden, ![Wa(x)](http://www.sciweavers.org/tex2img.php?eq=W_a%28x%29&bc=Transparent&fc=Black&im=png&fs=12&ff=arev&edit=0) einfach ableiten und das Ergebnis dann vergleichen (schneller und einfacher)
+- Man soll zeigen, dass ![Wa(x)](http://latex.codecogs.com/gif.latex?%5Cinline%20W_a%28x%29) eine Stammfunktion von ![wa(x)](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20w_a%28x%29) ist.  
+Anstatt die Stammfunktion von ![wa(x)](http://latex.codecogs.com/gif.latex?%5Cinline%20%5Clarge%20w_a%28x%29) selbst zu bilden, ![Wa(x)](http://latex.codecogs.com/gif.latex?%5Cinline%20W_a%28x%29) einfach ableiten und das Ergebnis dann vergleichen (schneller und einfacher)
 
 ## 3
 - Man soll das Materialvolumen für die Glocke herausfinden:
